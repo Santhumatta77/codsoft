@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Landing Page</title>
+	<link rel="stylesheet" href="landingstyle.css">
+</head>
+<body>
+	<nav>
+		<div class="heading">Spotify</div>
+		<div class="navbar">
+			<ul>
+				<li><a href="#Why Spotify">About</a></li>
+				<li><a href="https://support.spotify.com/in-en/?_gl=1*1v7tfmb*_gcl_aw*R0NMLjE3MTA4NDIzOTAuQ2p3S0NBanc3LVN2QmhCNkVpd0F3WWRDQVVnSXZoSW94U0RtZDhaN1ZLVHBSWUMtdWpqQWJXLTVMWTJob052UXEtUl8zQlZDTDFtZUF4b0NBYVlRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MTA4NDIzOTAuQ2p3S0NBanc3LVN2QmhCNkVpd0F3WWRDQVVnSXZoSW94U0RtZDhaN1ZLVHBSWUMtdWpqQWJXLTVMWTJob052UXEtUl8zQlZDTDFtZUF4b0NBYVlRQXZEX0J3RQ..*_gcl_au*MTU5MDY1OTA2OS4xNzEwODQyMjQ4" target="_blank">Support</a></li>
+				<li><a href="https://www.spotify.com/in-en/signup" target="_blank">Sign Up</a></li>
+			</ul>
+		</div>
+	</nav>
+	
+	<div class="home" >
+		<div class="side1">
+			<h1>Millions of songs <br> and podcasts, in <br> your pocket.</h1>
+			<button>
+				<a href= target="_blank">
+					Explore More
+				</a>
+			</button>
+		</div>
+		<div class="side2">
+			<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png"
+				width="500">
+		</div>
+	</div>
+
+	<section class="about" id="Why Spotify">
+		<div class="content">
+			<div class="title"><h2>Why Spotify</h2>
+			</div>
+			<div class="boxes">
+				<div class="box">
+					<div class="topic">
+							<img src= width="50">
+							<h3>Make it yours</h3>
+					</div>
+					<p>
+						Tell us what you like, and we'll recommend music for you. 
+					</p>
+				</div>
+				<div class="box">
+					<div class="topic">
+							<img src="https://previews.agefotostock.com/previewimage/medibigoff/a8b8c714015f9da02517c883cb1996e8/esy-037597888.jpg" width="50">
+							<h3>Playlists made easy</h3>
+					</div>
+					<p>
+						We'll help you make playlists. Or enjoy playlists made by music experts. 
+					</p>
+				</div>
+
+				<div class="box">
+					<div class="topic">
+							<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmf6jpzaAV5b63otLUl0Wj5iJ_AVfcNTJ4c3qz_WZCqzbQIQCG0ZoipLAPZh-fgB-4f8&usqp=CAU" width="50">
+							<h3>Play your favorites</h3>
+					</div>
+					<p>
+						Listen to the songs you love, and discover new music and podcasts. 
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div class="text">
+		<center><h2>Forever Free</h2>
+			<p>No Credit card needed</p>
+		</center>
+	</div>
+	<div class="download">
+			<h2>Ready, Let's Play!</h2>
+			<button>
+				<a href="https://www.spotify.com/in-en/download/windows/" target="_blank">
+					Download Spotify Free
+				</a>
+			</button>
+	</div>
+</body>
+</html>
